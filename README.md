@@ -37,6 +37,10 @@ Use any commonly available utilities you like.
 Briefly explain any interesting corner cases and why 
 your script does or does not handle them.
 
+# Run the "challenge.sh" script to run the bash script:
+challenge.sh
+
+
 # Please send your response to: careers@stealthsoftwareinc.com
 
 We look forward to hearing from you!
